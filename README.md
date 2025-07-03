@@ -51,5 +51,4 @@ Java
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jogodoidinho/jogodoidinho/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jogodoidinho/jogodoidinho/output/pacman-contribution-graph.svg">
 </picture>
-
 ###
