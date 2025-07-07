@@ -21,21 +21,18 @@ Java
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div style="max-width: 5%;" align="left">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img max-width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img max-width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
 </div>
 
 ###
 
-<h3 align="left">🔥  My Stats :</h3>
+<h3 align="left">🔥   My Stats :</h3>
+
 ###
 
 <div align="center">
@@ -50,4 +47,5 @@ Java
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jogodoidinho/jogodoidinho/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jogodoidinho/jogodoidinho/output/pacman-contribution-graph.svg">
 </picture>
+
 ###
