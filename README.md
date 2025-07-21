@@ -9,7 +9,7 @@ Nome: Nate
 Identidade: Progamador Backend
 Ferramentas: Python + Java 
 🚧 Estudando Atualmente:
-Ruby
+PHP
 Django Avançado
 Java
 ========================🚧
