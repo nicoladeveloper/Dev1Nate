@@ -23,10 +23,7 @@
 </div>
 
 <div align = "left">
-<table>
-  <tr>
-    <td align = "left">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=17&duration=3000&pause=1000&color=65FF51&width=435&lines=My+stacks" alt="Typing SVG" /></a><br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=17&duration=3000&pause=1000&color=65FF51&width=435&lines=My+stacks" alt="Typing SVG" /></a><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="35" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="35" alt="java logo"  />
@@ -34,21 +31,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="spring logo"  />
-    </td> 
-      <td align = "center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Dev1Nate&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"/>
-      </td>
-  </tr>
-</table>
+</div>
+
+##
+<div align = "left">
+   <img src="https://github-readme-stats.vercel.app/api?username=Dev1Nate&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"/>
+
 </div>
 
 ##
 
-
 <table>
   <tr>
+    <div align = "left">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=18&duration=6000&pause=5&color=65FF51&background=285D3700&width=435&lines=Projetos" alt="Typing SVG" /></a>
-    <td align = "center">
+    </div>
+      <td align = "center">
       <h4>Sistema de login Python</h4><br>
         <a href="https://github.com/Dev1Nate/sistema-de-login/blob/main/README.md">
          <img width="250" alt="Image" src="https://github.com/user-attachments/assets/a2a13d5e-0683-40c5-9d9b-e7eca5ce67c9" />
