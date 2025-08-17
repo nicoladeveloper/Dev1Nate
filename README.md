@@ -1,10 +1,16 @@
 
 <div align ="center">
 
-<div align="left">
- <img height="150" src="https://www.procurei-em-sonhos.com/wp-content/uploads/2021/02/tumblr_ma8oawIKaL1qc5wono1_500.gif"  />
+<div align ="left">
+<table>
+  <tr>
+    <td align = left">
+      <img height="150" src="https://www.procurei-em-sonhos.com/wp-content/uploads/2021/02/tumblr_ma8oawIKaL1qc5wono1_500.gif"/>
+      <p> Meu nome é Nate, Programador Backend | Ferramentas que uso: Python e Java | Estudando Atualmente: PHP, Django Avançado e Java</p>
+      </td>
+  </tr>
+</table>
 </div>
-
 
 ##
 
