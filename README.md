@@ -7,9 +7,8 @@
 ##
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=16&pause=4&color=65FF51&repeat=false&width=435&lines=Nome+Nate%2C+Programador+Backend%2C+habilidades+com+" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=16&pause=4&color=65FF51&repeat=false&width=435&lines=Ferramentas%3A+Python+e+Java%2C+Estudando+Atualmente" alt="Typing SVG" /></a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=16&pause=4&color=65FF51&repeat=false&width=435&lines=+PHP%2C+Django+Avan%C3%A7ado" alt="Typing SVG" /></a>
-
+<div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=16&pause=4&color=65FF51&repeat=false&width=435&lines=Nome+Nate%2C+Programador+Backend%2C+habilidades+com+" alt="Typing SVG" /><a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=16&pause=4&color=65FF51&repeat=false&width=435&lines=Ferramentas%3A+Python+e+Java%2C+Estudando+Atualmente" alt="Typing SVG" /></a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=16&pause=4&color=65FF51&repeat=false&width=435&lines=+PHP%2C+Django+Avan%C3%A7ado" alt="Typing SVG" /></a>
+</div>
 <div align="center>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=17&duration=3000&pause=1000&color=65FF51&width=435&lines=My+stacks" alt="Typing SVG" /></a><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="35" alt="python logo"  />
