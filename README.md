@@ -7,7 +7,6 @@
 ##
 
 
-<div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=16&pause=4&color=65FF51&repeat=false&width=435&lines=Nome+Nate%2C+Programador+Backend%2C+habilidades+com+" alt="Typing SVG" /><a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=16&pause=4&color=65FF51&repeat=false&width=435&lines=Ferramentas%3A+Python+e+Java%2C+Estudando+Atualmente" alt="Typing SVG" /></a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=16&pause=4&color=65FF51&repeat=false&width=435&lines=+PHP%2C+Django+Avan%C3%A7ado" alt="Typing SVG" /></a>
 </div>
 <div align="center>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=17&duration=3000&pause=1000&color=65FF51&width=435&lines=My+stacks" alt="Typing SVG" /></a><br>
@@ -30,27 +29,29 @@
 
 
 ##
-<div align = "center">
 <table>
   <tr>
    <p" align = "left">! Clique no Projeto para ser direcionado</p>
-    <td align="center">
-      <h4 style="color:#39FF14;">Sistema de login Python</h4>
-        <a href="https://github.com/Dev1Nate/sistema-de-login/blob/main/README.md"><img width="250" alt="Image" src="https://github.com/user-attachments/assets/a2a13d5e-0683-40c5-9d9b-e7eca5ce67c9" />
+    <td>
+      <h4>Sistema de login Python</h4>
+        <a href="https://github.com/Dev1Nate/sistema-de-login/blob/main/README.md">
+         <img width="250" alt="Image" src="https://github.com/user-attachments/assets/a2a13d5e-0683-40c5-9d9b-e7eca5ce67c9" />
       </a>
     </td>
-  <td align="center">
-      <h4 style="color:green;">Calculadora Folha de Pagamento</<h4>
-        <a href="https://github.com/Dev1Nate/Folha-Bruta-de-Funcionario"><img width="250" alt="Image" src="https://github.com/user-attachments/assets/ed98759c-fd8f-4dcb-8d0d-02d717e4c9a3" />
-      </a>
+    <td>
+      <h4>Calculadora Folha de Pagamento</<h4>
+        <a href="https://github.com/Dev1Nate/Folha-Bruta-de-Funcionario">
+         <img width="250" alt="Image" src="https://github.com/user-attachments/assets/ed98759c-fd8f-4dcb-8d0d-02d717e4c9a3" />
+        </a>
       </td>
-    <td align="center">
-      <h4 style="color:#39FF14;">Registros de Produtos</h4>
+    <td>
+      <h4>Registros de Produtos</h4>
         <a href="https://github.com/Dev1Nate/registro-de-produtos"><img width="250" alt="Image" src="https://github.com/user-attachments/assets/1eab706e-6e01-4c70-99b5-6823ac54fae2" />
         </a>
     </td>
   </tr>
 </table>
+       
 <table>
   <tr>
     <td align="center">
@@ -70,7 +71,6 @@
     </td>
   </tr>
 </table>
-</div>
 
 ###
 
