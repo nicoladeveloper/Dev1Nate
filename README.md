@@ -31,7 +31,7 @@
 ##
 <table>
   <tr>
-   <p" align = "left">! Clique no Projeto para ser direcionado</p>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=18&duration=6000&pause=5&color=65FF51&background=285D3700&width=435&lines=Projetos" alt="Typing SVG" /></a>
     <td align = "center">
       <h4>Sistema de login Python</h4><br>
         <a href="https://github.com/Dev1Nate/sistema-de-login/blob/main/README.md">
