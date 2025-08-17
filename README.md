@@ -4,13 +4,11 @@
  <img height="150" src="https://www.procurei-em-sonhos.com/wp-content/uploads/2021/02/tumblr_ma8oawIKaL1qc5wono1_500.gif"  />
 </div>
 
-Nome Nate, Progamador Backend habilidades com Ferramentas: Python e Java, Estudando Atualmente: PHP, Django Avançado
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=16&pause=4&color=65FF51&repeat=false&width=435&lines=Nome+Nate%2C+Programador+Backend%2C+habilidades+com+" alt="Typing SVG" /></a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=16&pause=4&color=65FF51&repeat=false&width=435&lines=Ferramentas%3A+Python+e+Java%2C+Estudando+Atualmente" alt="Typing SVG" /></a>
 ##
 
-- <span style="color:#39FF14">Funcionalidade A</span>
 
-##
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=16&pause=4&color=65FF51&repeat=false&width=435&lines=Nome+Nate%2C+Programador+Backend%2C+habilidades+com+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=16&pause=4&color=65FF51&repeat=false&width=435&lines=Ferramentas%3A+Python+e+Java%2C+Estudando+Atualmente" alt="Typing SVG" /></a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=16&pause=4&color=65FF51&repeat=false&width=435&lines=+PHP%2C+Django+Avan%C3%A7ado" alt="Typing SVG" /></a>
 
 <div align="center>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=17&duration=3000&pause=1000&color=65FF51&width=435&lines=My+stacks" alt="Typing SVG" /></a><br>
