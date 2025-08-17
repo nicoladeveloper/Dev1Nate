@@ -68,17 +68,17 @@
 <table>
   <tr>
     <td align="center">
-      <h4 style="color:#39FF14;">API - Rede Social</h4><br>
+      <h4>API - Rede Social</h4><br>
         <a href="https://github.com/Dev1Nate/API-Rede-Social/blob/main/README.md"><img width="250" alt="Image" src="https://github.com/user-attachments/assets/3a770309-0e73-4223-a6a0-65c44eb4d134" />
         </a>
     </td>
   <td align="center">
-        <h4 style="color:#39FF14;">Api - Sistema de Produtos</h4><<br> 
+        <h4>Api - Sistema de Produtos</h4><<br> 
           <a href="https://github.com/Dev1Nate/API-Sistema-de-Produtos"><img width="250" alt="Image" src="https://github.com/user-attachments/assets/cb74236b-e08c-47be-8504-2ff5797369c6" />
           </a>
       </td>
     <td align="center">
-      <h4 style="color:#39FF14;">Agenda de Anotações em Java</h3><br>
+      <h4>Agenda de Anotações em Java</h3><br>
         <a href="https://github.com/Dev1Nate/Agenda-de-Anotacoes-em-Java"><img width="240" alt="Image" src="https://github.com/user-attachments/assets/4258ab54-860c-4f3e-926f-d48080bb0cb4" />
         </a>
     </td>
