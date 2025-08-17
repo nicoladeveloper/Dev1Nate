@@ -25,14 +25,6 @@
 ##
 
 <div align = "left">
-<img src="https://github-readme-stats.vercel.app/api?username=Dev1Nate&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&title_color=00ff00&text_color=00ff00&icon_color=00ff00&bg_color=00000000" height="150" alt="stats graph"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=merko&hide_border=true&title_color=00ff00&text_color=00ff00&bg_color=00000000"/>
-
-</div>
-
-##
-
-<div align = "left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=17&duration=3000&pause=1000&color=65FF51&width=435&lines=My+stacks" alt="Typing SVG" /></a><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="35" alt="python logo"  />
   <img width="12" />
@@ -41,10 +33,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="spring logo"  />
+  
 </div>
+
 
 ##
 
+
+<div align = "left">
+<img src="https://github-readme-stats.vercel.app/api?username=Dev1Nate&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&title_color=00ff00&text_color=00ff00&icon_color=00ff00&bg_color=00000000" height="150" alt="stats graph"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=merko&hide_border=true&title_color=00ff00&text_color=00ff00&bg_color=00000000"/>
+
+</div>
+
+##
 <div align ="left">
 <table>
   <tr>
@@ -58,7 +60,7 @@
       </a>
     </td>
     <td align = "center">
-      <h4>Calculadora Folha de Pagamento</h4><br>
+      <h4>Calculadora Folha de Pagamento</<h4><br>
         <a href="https://github.com/Dev1Nate/Folha-Bruta-de-Funcionario">
          <img width="250" alt="Image" src="https://github.com/user-attachments/assets/ed98759c-fd8f-4dcb-8d0d-02d717e4c9a3" />
         </a>
