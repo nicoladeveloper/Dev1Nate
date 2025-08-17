@@ -9,10 +9,7 @@
             Programador Backend<br>
             Ferramentas: Python e Java<br>
             Estudando Atualmente: PHP | Django Avançado | Java
-            </p> <div align = "left">
-              <a href="instagram" target="_blank"><img src="https://img.shields.io/badge/-Instagram-51F74EFF?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-              <a href="linkedin" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-51F74EFF?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-              <a href="gmail" target="_blank"><img src="https://img.shields.io/badge/-Gmail-51F74EFF?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+            </p>
     </td>
     <td align = left">
       <img height="150" src="https://www.procurei-em-sonhos.com/wp-content/uploads/2021/02/tumblr_ma8oawIKaL1qc5wono1_500.gif"/>
@@ -31,6 +28,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="spring logo"  />
 </div>
+
+##
+
+ <div align = "left">
+              <a href="instagram" target="_blank"><img src="https://img.shields.io/badge/-Instagram-51F74EFF?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+              <a href="linkedin" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-51F74EFF?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+              <a href="gmail" target="_blank"><img src="https://img.shields.io/badge/-Gmail-51F74EFF?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </div>
+
+
 
 ##
 
