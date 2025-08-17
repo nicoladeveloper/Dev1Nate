@@ -40,8 +40,9 @@
 ##
 
 <div align = "left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev1Nate&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev1Nate&hide_progress=true&bg_color=0d1117&text_color=00ff00&title_color=00ff00&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dev1Nate&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&title_color=00ff00&text_color=00ff00&icon_color=00ff00&bg_color=00000000" height="150" alt="stats graph"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=merko&hide_border=true&title_color=00ff00&text_color=00ff00&bg_color=00000000"/>
+
 </div>
 
 ##
