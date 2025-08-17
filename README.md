@@ -8,9 +8,10 @@
       <img height="150" src="https://www.procurei-em-sonhos.com/wp-content/uploads/2021/02/tumblr_ma8oawIKaL1qc5wono1_500.gif"/>
       </td>
     <td>
-       <p> Meu nome é Nate, Programador Backend<br>
-        Ferramentas que uso: Python e Java<br>
-        Estudando Atualmente: PHP, Django Avançado e Java</p>
+       <p>  Nome: Nate<br>
+            Programador Backend<br>
+            Ferramentas: Python e Java<br>
+            Estudando Atualmente: PHP | Django Avançado | Java</p>
     </td>
   </tr>
 </table>
