@@ -29,7 +29,6 @@
 
 
 ##
-<div align = "center";
 <table>
   <tr>
    <p" align = "left">! Clique no Projeto para ser direcionado</p>
@@ -72,7 +71,6 @@
     </td>
   </tr>
 </table>
-</div>
 ###
 
 
