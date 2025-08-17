@@ -22,11 +22,6 @@
 </table>
 </div>
 
-##
-
-
-
-##
 
 <div align = "left">
 <img src="https://github-readme-stats.vercel.app/api?username=Dev1Nate&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&title_color=00ff00&text_color=00ff00&icon_color=00ff00&bg_color=00000000" height="150" alt="stats graph"/>
@@ -62,7 +57,7 @@
       </a>
     </td>
     <td align = "center">
-      <h4>Calculadora Folha de Pagamento</<h4><br>
+      <h4>Calculadora Folha de Pagamento</h4><br>
         <a href="https://github.com/Dev1Nate/Folha-Bruta-de-Funcionario">
          <img width="250" alt="Image" src="https://github.com/user-attachments/assets/ed98759c-fd8f-4dcb-8d0d-02d717e4c9a3" />
         </a>
@@ -83,12 +78,12 @@
         </a>
     </td>
   <td align="center">
-        <h4>Api - Sistema de Produtos</h4><<br> 
+        <h4>Api - Sistema de Produtos</h4><br> 
           <a href="https://github.com/Dev1Nate/API-Sistema-de-Produtos"><img width="250" alt="Image" src="https://github.com/user-attachments/assets/cb74236b-e08c-47be-8504-2ff5797369c6" />
           </a>
       </td>
     <td align="center">
-      <h4>Agenda de Anotações em Java</h3><br>
+      <h4>Agenda de Anotações em Java</h4><br>
         <a href="https://github.com/Dev1Nate/Agenda-de-Anotacoes-em-Java"><img width="240" alt="Image" src="https://github.com/user-attachments/assets/4258ab54-860c-4f3e-926f-d48080bb0cb4" />
         </a>
     </td>
