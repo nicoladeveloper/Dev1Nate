@@ -1,17 +1,14 @@
 
-
-
 <div align ="left">
 <div align="left">
  <img height="150" src="https://www.procurei-em-sonhos.com/wp-content/uploads/2021/02/tumblr_ma8oawIKaL1qc5wono1_500.gif"  />
 </div>
 
 Nome Nate, Progamador Backend habilidades com Ferramentas: Python e Java, Estudando Atualmente: PHP, Django Avançado
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=16&pause=4&color=65FF51&repeat=false&width=435&lines=Nome+Nate%2C+Programador+Backend%2C+habilidades+com+" alt="Typing SVG" /></a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=16&pause=4&color=65FF51&repeat=false&width=435&lines=Ferramentas%3A+Python+e+Java%2C+Estudando+Atualmente" alt="Typing SVG" /></a>
+##
 
-###
-
-
-
+- <span style="color:#39FF14">Funcionalidade A</span>
 
 ##
 
@@ -32,7 +29,7 @@ Nome Nate, Progamador Backend habilidades com Ferramentas: Python e Java, Estuda
 <img src="https://github-readme-stats.vercel.app/api?username=Dev1Nate&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"/>
 </div>
 
-<span style="color:#39FF14">Texto verde neon</span>
+
 
 
 ##
