@@ -31,13 +31,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="spring logo"  />
-</div>
-
-##
-<div align = "left">
+  <div align = "center">
    <img src="https://github-readme-stats.vercel.app/api?username=Dev1Nate&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"/>
 
 </div>
+</div>
+
+##
+
 
 ##
 <div align ="left">
