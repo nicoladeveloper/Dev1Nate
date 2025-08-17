@@ -20,9 +20,11 @@
 ##
 
 
+
 </div>
 <div align="center>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=17&duration=3000&pause=1000&color=65FF51&width=435&lines=My+stacks" alt="Typing SVG" /></a><br>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="35" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="35" alt="java logo"  />
